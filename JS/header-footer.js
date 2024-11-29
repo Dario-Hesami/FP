@@ -7,7 +7,7 @@ const mainFooter = document.querySelector('#footer-section');
 mainHeader.innerHTML = `
 <div class="header">
 <img class="logo" src="images/logo4.png">
-<h1>My Website</h1>
+<h1>My Website v2</h1>
 <p>A <b>responsive</b> website created by me.</p>
 </div>
 
